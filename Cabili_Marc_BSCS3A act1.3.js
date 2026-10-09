@@ -16,7 +16,7 @@ const [valarray4, valarray5, valarray6] = letvar8;  //para sa destructed arrays
 const [valarray7, valarray8, valarray9] = letvar9;  //para sa destructed arrays
 
 
-let letvar10 = { 
+let letvar10 = { // letvar10 value object literals
                 nameletvar10: "Cabili Marc",
                 strandletvar10: "BSCS",                  //para sa destructed object 
                 sectionletvar10: "3A"
